@@ -30,6 +30,7 @@ List below is the official list of TOC contributors, in alphabetical order:
 * Erin Boyd, Red Hat (eboyd@redhat.com)
 * Frederick Kautz, Doc.ai (frederick@doc.ai)
 * Gergely Csatari, Nokia (gergely.csatari@nokia.com)
+* Gerred Dillon, D2iQ (gerred@d2iq.com)
 * Geri Jennings, CyberArk (geri.jennings@cyberark.com)
 * Ghe	Rivero, Independent (ghe.rivero@gmail.com)
 * Gilbert Song, Mesosphere (gilbert@mesosphere.com)
